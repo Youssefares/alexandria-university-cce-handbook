@@ -100,4 +100,4 @@ If you share opportunities, you’re strengthening your community’s future cha
 
 
 ## Some Jobhunting and Interviewing Resources
-We've written an extensive separate document for interview and jobhunting resources that you can find [here](https://github.com/Youssefares/Alexandria-University-CCE-Mini-Handbook/blob/master/Interview%20prep%20and%20job%20hunting.md).
+We've written an extensive separate document for interview and jobhunting resources that you can find [here](https://github.com/Youssefares/alexandria-university-cce-handbook/blob/master/interview-prep-and-job-hunting.md).
