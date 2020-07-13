@@ -1,5 +1,5 @@
 ## Quick Intro
-This will include a lot of interview prep material (mostly links). One thing we’d also like to promote is **the importance of hustling** for getting a job and of investing as much time job hunting as one would invest in the interview prep. That’s often overlooked despite being so counterintuitive.
+This will include a lot of interview prep material (mostly links). One thing we’d also like to promote is **the importance of hustling** for getting a job and of investing as much time job hunting as one would invest in the interview prep. That’s often overlooked despite being so counter intuitive. So, this will also include some links to communities and job websites and not only prep material
 
 ## Good Problem Listings
 - ## [Cracking The Coding Interview](http://www.crackingthecodinginterview.com/)
@@ -32,5 +32,8 @@ https://www.reddit.com/r/cscareerquestionseu/).
 ## Made in Alex
 - [Yara Abdullatif's Resume Writing Tutorial](https://www.youtube.com/watch?v=eSTGSvOCZmM&t=748s)
 
+## Made in Egypt
+
 ## Miscellaneous
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/)
+- [Relocate.me](https://relocate.me/)
