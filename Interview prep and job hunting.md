@@ -30,7 +30,7 @@ This will include a lot of interview prep material (mostly links). One thing weâ
 https://www.reddit.com/r/cscareerquestionseu/).
 
 ## Made in Alex
-- ### [Yara Abdullatif's Resume Writing Tutorial](https://www.youtube.com/watch?v=eSTGSvOCZmM&t=748s)
+- [Yara Abdullatif's Resume Writing Tutorial](https://www.youtube.com/watch?v=eSTGSvOCZmM&t=748s)
 
 ## Miscellaneous
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/)
