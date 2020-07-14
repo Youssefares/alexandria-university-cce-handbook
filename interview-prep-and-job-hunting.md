@@ -3,7 +3,7 @@ This will include a lot of interview prep material (mostly links). One thing weâ
 
 ## Good Problem Listings
 - ## [Cracking The Coding Interview](http://www.crackingthecodinginterview.com/)
-  Obviously.
+  Very good starting point for coding interview preparation. It walks you through building a preparation plan, understanding what to expect in coding interviews, and ensuring that you are approaching problem solving the right way and not wasting your time.
 - ### [Leetcode's blind curated 75](https://leetcode.com/list/xoqag3yj/)
   Make sure you solved everything here before interviewing season. This is the most popular list out there and it's very broad covering the most touched on topics.
 
@@ -33,7 +33,7 @@ https://www.reddit.com/r/cscareerquestionseu/).
 - [Yara Abdullatif's Resume Writing Tutorial](https://www.youtube.com/watch?v=eSTGSvOCZmM&t=748s)
 
 ## Made in Egypt
-
+- [Egyptian Geeks](https://www.facebook.com/groups/egyptian.geeks)
 ## Miscellaneous
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/)
 - [Relocate.me](https://relocate.me/)
