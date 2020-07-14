@@ -86,7 +86,7 @@ Recruiters have been saying that almost all resumes from Alexandria University l
 It’s important you build cool projects to try to sell yourself a bit more. If you don’t have a lot of original ideas, you could draw inspiration from:
 
 
-
+*   [Cassidy's guide](https://github.com/cassidoo/getting-a-gig) is a very good starting point for building a resume.
 *   [Public Apis](https://github.com/n0shake/Public-APIs)
 *   [Product Hunt](producthunt.com)
 *   Build our coursework projects with a new flavor (new language, new programming paradigm, etc.).
