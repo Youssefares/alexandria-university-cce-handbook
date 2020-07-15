@@ -17,9 +17,10 @@ This will include a lot of interview prep material (mostly links). One thing weâ
 
 - ### [How to effectively use leetcode to prepare for interviews](https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews)
   The must solve easy problems on that list are especially great. The easy problems on leetcode, that have tricky corner cases or limit on space used, get asked a lot on interviews.
-- ### Other Lists
+- ### Other Lists and resources
     1. [Another curated list](https://seanprashad.com/leetcode-patterns/) of 160+ questions tagged by company.
     2. Closer to interview day: [questions by cram score](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score).
+    3. [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/)
 
 ## Communities
 - ### [HH Coding Interview Prep on Facebook](https://m.facebook.com/profile.php?id=722062947858000&ref=content_filter) (less active these days)
@@ -31,9 +32,18 @@ https://www.reddit.com/r/cscareerquestionseu/).
 
 ## Made in Alex
 - [Yara Abdullatif's Resume Writing Tutorial](https://www.youtube.com/watch?v=eSTGSvOCZmM&t=748s)
+- [Ahmed Atef's Do the "Big Thing" now](https://www.facebook.com/AhmedAtef07/posts/10217493977285188)
+- [Mostafa Ali Mansour's "97th time is the charm"](https://www.quora.com/q/khnqqiukcamqqagy/97th-time-is-the-charm)
 
 ## Made in Egypt
 - [Egyptian Geeks](https://www.facebook.com/groups/egyptian.geeks)
-## Miscellaneous
-- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/)
-- [Relocate.me](https://relocate.me/)
+- [Bashmohandes by Mohamed Elsherif](https://www.youtube.com/user/bashmohandes)
+- [Ahmed Alfy's null++](https://nullplus.plus/)
+- [Ahmad Zain's TechAndCoffee](https://anchor.fm/iahmadzain)
+- [Ahmed Essam's EssamCafe](https://essamcafe.com/)
+
+## Unlikely places to find jobs/experience
+- [Relocate.me](https://relocate.me/) is a website that lists only jobs that are willing to relocate employees and sponsor their visa.
+- [angel.co](https://angel.co) can help you get remote internships/contracts at startups and midsized companies.
+- [Google Inside Look](https://buildyourfuture.withgoogle.com/programs/inside-look/)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/)
