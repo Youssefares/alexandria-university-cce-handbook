@@ -22,6 +22,9 @@ This will include a lot of interview prep material (mostly links). One thing weâ
     2. Closer to interview day: [questions by cram score](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score).
     3. [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/)
 
+## System design 
+- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+
 ## Communities
 - ### [HH Coding Interview Prep on Facebook](https://m.facebook.com/profile.php?id=722062947858000&ref=content_filter) (less active these days)
   Join the group on Facebook, to see what everybody is studying and where they are interviewing (which indicates which places are hiring)
