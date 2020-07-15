@@ -9,10 +9,4 @@ May generalize for a lot of universities in the region.
 ### Contributing :computer:
 Feel free to contribute with any resources great for anyone interview preping or looking to make the most out of university.
 
-We especially encourage you to contribute if you come from a similar background to us.
-
-#### Ways you could contribute
-- Add more items to our lists or short posts.
-- Write a new post about a topic you find important.
-
 Just fork, edit/create and submit a PR. Spread the knowledge and love :heart:.
