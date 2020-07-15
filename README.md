@@ -1,4 +1,18 @@
 # Alexandria-University-CCE-Handbook (Attempt)
-Contains some useful links, guides and material for Computer and Communications Engineers in Alexandria University to help people make the most out of university and help people get a gig.
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![HitCount](http://hits.dwyl.com/youssefares/alexandria-university-cce-handbook.svg)](http://hits.dwyl.com/youssefares/alexandria-university-cce-handbook)
 
-May generalize for a lot of universities in the region.
+Some links, guides and material for Computer and Communications Engineers in Alexandria University to help people make the most out of university and get a gig.
+
+May generalize for a lot of universities in the region. 
+
+### Contributing :computer:
+Feel free to contribute with any resources great for anyone interview preping or looking to make the most out of university.
+
+We especially encourage you to contribute if you come from a similar background to us.
+
+#### Ways you could contribute
+- Add more items to our lists or short posts.
+- Write a new post about a topic you find important.
+
+Just fork, edit/create and submit a PR. Spread the knowledge and love :heart:.
