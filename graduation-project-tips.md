@@ -81,13 +81,13 @@ The biggest gain comes from the awesome **[Github Student Pack](https://educatio
 If any of the team members don't have such an email, I highly advise him.her to go get one asap because you'll want to use it.
 
 
-## Tip #9: Always Think Big ! 
+## Tip #9: Always Think Big ! :dart:
 
 Take this project seriously, it's going to (should) be the biggest project in your career so far, it will be the center of traction everyone will ask you about. If I am recruiting fresh graduates, that would be my first point to ask about technically.
 Don't just say this is another college project, because you may not get the chance to work on such collaborative project where you build everything from scratch again.
 
 
-## Tip #10: Have Fun !
+## Tip #10: Have Fun ! :tada:
 
 This is the last year in your Bachelor's degree (this should be significant), enjoy, have fun with your team. Don't make it ruin your time, make it flourish it and add memories to it. 
 For me personally, having fun is equivalently important to working hard ! 
